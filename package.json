@@ -1,0 +1,15 @@
+{
+  "name": "RevStack.IO",
+  "version": "0.9.0",
+  "description": "IO generic repository pattern abstraction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RevStack/IO.git"
+  },
+  "author": "S. Francis",
+  "license": "MIT"
+}
