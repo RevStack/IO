@@ -5,3 +5,10 @@
 \\psf\Home\Documents\Development\mono\RevStack\RevStack.IO\RevStack.IO\obj\Debug\RevStack.IO.pdb
 \\psf\Home\Documents\Development\mono\RevStack\RevStack.IO\RevStack.IO\bin\Debug\RevStack.Pattern.dll
 \\psf\Home\Documents\Development\mono\RevStack\RevStack.IO\RevStack.IO\bin\Debug\RevStack.Pattern.pdb
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO\RevStack.IO\bin\Debug\RevStack.IO.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO\RevStack.IO\bin\Debug\RevStack.IO.pdb
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO\RevStack.IO\bin\Debug\RevStack.Pattern.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO\RevStack.IO\bin\Debug\RevStack.Pattern.pdb
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO\RevStack.IO\obj\Debug\RevStack.IO.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO\RevStack.IO\obj\Debug\RevStack.IO.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO\RevStack.IO\obj\Debug\RevStack.IO.pdb
