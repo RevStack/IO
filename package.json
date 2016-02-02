@@ -2,7 +2,7 @@
   "name": "RevStack.IO",
   "version": "0.9.1",
   "description": "IO generic repository pattern abstraction",
-  "main": "RevStack.IO.sin",
+  "main": "RevStack.IO.sln",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
