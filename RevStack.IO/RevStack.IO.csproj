@@ -48,6 +48,9 @@
     <Compile Include="EntityStreamService.cs" />
     <Compile Include="IEntityStreamService.cs" />
     <Compile Include="Enumerator.cs" />
+    <Compile Include="IIORepository.cs" />
+    <Compile Include="IOEnumeratorContext.cs" />
+    <Compile Include="IOFileRespository.cs" />
     <Compile Include="IORepository.cs" />
     <Compile Include="IEntityStreamRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

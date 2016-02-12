@@ -1,6 +1,6 @@
 {
   "name": "RevStack.IO",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "IO generic repository pattern abstraction",
   "main": "RevStack.IO.sln",
   "scripts": {
