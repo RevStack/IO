@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RevStack.IO</id>
+    <version>1.0.1</version>
+    <title>RevStack.IO</title>
+    <authors>Scott Francis, David Sheets - MIS Interactive</authors>
+    <owners>D. Sheets, S. Francis</owners>
+    <licenseUrl>https://github.com/RevStack/IO/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/RevStack/IO.git</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>RevStack IO Repository class library</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>RevStack IO Repository</tags>
+  </metadata>
+</package>
